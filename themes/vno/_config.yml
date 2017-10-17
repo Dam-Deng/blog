@@ -7,14 +7,14 @@ rss: /atom.xml
 description: 
 social:
   weibo:
-  github: https://github.com/WizMacauTeam
+  github: https://github.com/Dam-Deng
   stack_overflow: 
   facebook: 
   twitter: 
   google_plus: 
 
 page_comment: false
-logo: /images/logo.jpg
+logo: /images/logo.png
 background:
   cover: /images/background-cover.jpg
   color: cover-green
